@@ -3,7 +3,6 @@
     const blueCard = new Card("cardBody-blue","tema-blue","img1","Hope");
     const pinkCard = new Card("cardBody-pink","tema-pink","img2","Love");
     const yellowGreenCard = new Card("cardBody-yellowGreen","tema-yellowGreen","img3","Brave");
-    const PP = new Card("cardBody-yellowGreen","tema-yellowGreen","img3","Brave");
     
     const objElem = document.querySelectorAll('.cardBody');
     const worldElem = document.querySelector('.world');
