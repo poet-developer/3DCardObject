@@ -2,7 +2,8 @@
 ### :dizzy:&nbsp;Project Statement : 3D Card Object using Vanilla JavaScript in March 2021
 ### :fire:&nbsp;GOAL: Study Constructor & Object 
 ### :monocle_face:&nbsp;미리보기 | Preview
-<img src="https://user-images.githubusercontent.com/90435185/205215190-0e530e51-0870-4b10-9893-9478c197c81e.gif" height="300"/>
+<img src="https://user-images.githubusercontent.com/90435185/205424295-536fe433-d778-4ac0-91d8-6be79efea2fb.gif" height="300"/>
+
 
 ### :wrench:&nbsp;주요 기능
  * 3D UI/UX
