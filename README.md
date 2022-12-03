@@ -1,5 +1,4 @@
 ## :whale2:&nbsp;&nbsp;3DCardObject
----
 ### :dizzy:&nbsp;Project Statement : 3D Card Object using Vanilla JavaScript in March 2021
 ### :fire:&nbsp;GOAL: Study Constructor & Object 
 ---
